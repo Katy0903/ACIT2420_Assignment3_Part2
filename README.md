@@ -11,6 +11,7 @@ The table below shows the script file I have used for this assignment and the pa
 | index.html | /var/www/my-site |
 | hello.conf (nginx configuration file) | /etc/nginx/sites-available/hello.conf |
 | hello-server.service	(service file starter) | /etc/systemd/system/hello-server.service |
+| backend.log | /var/log/hello-server |
 
 ## Video Link
 
